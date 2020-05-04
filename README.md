@@ -1,1 +1,1 @@
-# COVID19_CT_Segmentation
+# COVID19 CT Segmentation
