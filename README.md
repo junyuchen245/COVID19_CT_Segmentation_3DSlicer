@@ -7,6 +7,7 @@ We trained a 2D ConvNet to segment lung and possible infected regions from patie
 This module requires `Keras/Tensorflow`, `scikit-image`, `scipy`, and `numpy` (all installed under 3DSlicer).
 
 Location of the model can be changed in `COVID19_CT_SEGMENTATION/ConvNetCovid/ConvNetCovid.py`:
+
     segmentation_model = load_model('/Users/junyuchen/COVIDSeg/CNNModels/COVIDModel_RFCM_FCM_0.1_1.h5')
     
 ## Example segmentation by our ConvNet model:
