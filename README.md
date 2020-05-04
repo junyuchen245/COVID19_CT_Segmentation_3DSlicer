@@ -8,7 +8,7 @@ This module requires `Keras/Tensorflow`, `scikit-image`, `scipy`, and `numpy` (a
 
 Location of the model can be changed in `COVID19_CT_SEGMENTATION/ConvNetCovid/ConvNetCovid.py`:
 
-    segmentation_model = load_model('/Users/junyuchen/COVIDSeg/CNNModels/COVIDModel_RFCM_FCM_0.1_1.h5')
+    line 55: segmentation_model = load_model('xxx_Model.h5')
     
 ## Example segmentation by our ConvNet model:
 ![](https://github.com/junyuchen245/COVID19_CT_Segmentation_3DSlicer/blob/master/pics/Screen%20Shot%202020-05-03%20at%2011.33.15%20PM.png)
