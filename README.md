@@ -10,4 +10,4 @@ We trained a 2D ConvNet to segment lung and possible infected regions from patie
 ## Screenshot of the extension module in 3DSlicer:
 ![](https://github.com/junyuchen245/COVID19_CT_Segmentation_3DSlicer/blob/master/pics/Screen%20Shot%202020-05-04%20at%205.04.11%20PM.png)
 
-
+### <a href="https://junyuchen245.github.io"> About Myself</a>
